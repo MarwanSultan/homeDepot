@@ -1,0 +1,4 @@
+io\pages\AbstractPage.class
+io\pages\HomePage.class
+io\properties\EnvironmentProperties.class
+io\properties\Environment.class
