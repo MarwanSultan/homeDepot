@@ -1,0 +1,35 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 15 2020 19:20:26 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* src/main/resources/acc_environment.properties
+* target/classes/acc_environment.properties
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* target/surefire-reports/junitreports/TEST-io.testscripts.GithubTest.xml
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* target/surefire-reports/testng-results.xml
+
+
+Created files:
+* .autogit/logs/log-15-6-2020-18-49-53.txt
+* target/allure-results/372cccc8-209b-4a46-9003-f3f8081cf6cf-container.json
+* target/allure-results/410f9c2b-3e69-418c-864a-065a5346fead-container.json
+* target/allure-results/44701851-912e-4a16-bb9b-fe624629332d-container.json
+* target/allure-results/45ad3fb1-b4f2-43e7-8373-c636215df444-container.json
+* target/allure-results/68a7ff7a-1402-4174-8599-325b95906a33-result.json
+* target/allure-results/9db5109f-5990-440d-a9a5-4d95c764787d-result.json
+* target/allure-results/9e8d0596-00b5-4cf4-a4ca-2a0aef45a498-container.json
+* target/allure-results/de9fbde0-da22-4ef7-bcb3-89b54f0c0bd3-container.json
+
+
+Deleted files:
+
+
+Renamed files:
