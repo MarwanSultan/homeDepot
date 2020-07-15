@@ -1,0 +1,60 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 15 2020 18:19:35 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* target/classes/io/pages/AbstractPage.class
+* target/classes/io/pages/HomePage.class
+* target/classes/io/properties/Environment.class
+* target/classes/io/properties/EnvironmentProperties.class
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* target/surefire-reports/junitreports/TEST-io.testscripts.GithubTest.xml
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* target/surefire-reports/testng-results.xml
+* target/test-classes/io/testscripts/GithubTest.class
+* target/test-classes/io/testscripts/TestBase.class
+
+
+Created files:
+* .autogit/logs/log-15-6-2020-12-55-45.txt
+* target/allure-results/4ff3b474-8388-4f5d-b84a-0d0b0b1a7d5d-container.json
+* target/allure-results/61be4aed-6eeb-4afd-9a52-525cba6eedaa-container.json
+* target/allure-results/7847ec10-b3ad-4e8d-9725-057c340d7c6d-container.json
+
+
+Deleted files:
+* target/allure-results/0567a634-7a83-4edb-bcff-b335d661f2a0-result.json
+* target/allure-results/0b9a2b96-663b-4a25-ac45-4edab32ccbca-container.json
+* target/allure-results/0dd1da84-daea-495d-b426-721ed66ab016-container.json
+* target/allure-results/0e5c8e8b-ba9a-4003-84a4-aca03edd60ab-container.json
+* target/allure-results/1124682e-18e9-4aa0-be4f-bb250f1671e8-result.json
+* target/allure-results/1280b05e-4f10-4f4a-9e21-ed28f84bde0b-container.json
+* target/allure-results/2099bab5-131b-4350-939d-824a6d203d77-container.json
+* target/allure-results/38931862-9b3e-4288-8bff-faa0d6494fb7-container.json
+* target/allure-results/494454c5-2e05-4929-bf4f-326970688677-result.json
+* target/allure-results/500efbbd-e4a7-4f5a-9d2a-0eea2dda6f24-container.json
+* target/allure-results/6fdf7978-280b-480b-8f02-642ff6d1aa8a-container.json
+* target/allure-results/7c114bf5-be87-4c9e-bb92-c38b7bd8bab1-result.json
+* target/allure-results/7f04649e-bafe-4554-b04f-6b8ec104f48d-container.json
+* target/allure-results/96453aab-5f59-4f59-b3e3-bdb4aee1c415-container.json
+* target/allure-results/98195034-d655-4da6-b404-f8c759b8b5d8-result.json
+* target/allure-results/9b129a15-64ce-4981-ab85-723842ec0635-container.json
+* target/allure-results/9cedf4f1-3407-456e-9453-81adc71d8152-container.json
+* target/allure-results/a53f6af4-f9ce-480b-a8d6-1524c7437ed1-container.json
+* target/allure-results/a58aecde-ad72-4ca5-8c01-526461909a45-container.json
+* target/allure-results/bf59ad36-9ab9-45b0-b340-432998cbf32d-container.json
+* target/allure-results/c3029f47-475b-483e-82ae-33cd3e44e187-result.json
+* target/allure-results/d7fcf51e-40f3-4ed9-bd55-b3a83b5271df-container.json
+* target/allure-results/e0c61295-f402-46ef-b0e8-deac0f042ade-container.json
+* target/allure-results/f5562e03-4a1b-4274-91fb-bb1fa0f8ea6b-container.json
+* target/surefire-reports/2020-07-15T12-52-29_482-jvmRun1.dump
+
+
+Renamed files:
+* [object Object]

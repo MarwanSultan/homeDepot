@@ -14,7 +14,7 @@ public class HomePage extends AbstractPage<HomePage> {
 
     WebDriverWait wait;
 
-    @FindBy(id = "headerMyAccountTitle")
+    @FindBy(id = "#headerMyAccountTitle")
     private WebElement myAccount;
 
 
