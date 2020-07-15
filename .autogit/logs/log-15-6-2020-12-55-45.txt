@@ -1,0 +1,30 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jul 15 2020 12:55:45 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* target/surefire-reports/junitreports/TEST-io.testscripts.GithubTest.xml
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* target/surefire-reports/testng-results.xml
+
+
+Created files:
+* .autogit/logs/log-15-6-2020-12-23-40.txt
+* target/allure-results/0e5c8e8b-ba9a-4003-84a4-aca03edd60ab-container.json
+* target/allure-results/2099bab5-131b-4350-939d-824a6d203d77-container.json
+* target/allure-results/494454c5-2e05-4929-bf4f-326970688677-result.json
+* target/allure-results/7f04649e-bafe-4554-b04f-6b8ec104f48d-container.json
+* target/surefire-reports/2020-07-15T12-52-29_482-jvmRun1.dump
+
+
+Deleted files:
+
+
+Renamed files:
