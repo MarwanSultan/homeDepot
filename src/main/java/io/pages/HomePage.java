@@ -6,11 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import io.properties.Environment;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class HomePage extends AbstractPage<HomePage> {
+public class HomePage extends BasePage {
 
     WebDriverWait wait;
 
@@ -21,18 +19,13 @@ public class HomePage extends AbstractPage<HomePage> {
     @FindBy(id = "headerSearch")
     private WebElement search;
 
-    public HomePage(WebDriver driver) {
+    public HomePage(final WebDriver driver) {
         super(driver);
     }
 
-    @Step("Open the Github homepage")
-    @Override
-    protected void load() {
-        driver.get(Environment.getProperties().url());
-    }
 
-    @Override
-    protected void isLoaded() throws Error {
+    public void Initialize() 
+    {
         assertThat(driver.getTitle()).isEqualTo("The Home Depot Logo");
     }
 

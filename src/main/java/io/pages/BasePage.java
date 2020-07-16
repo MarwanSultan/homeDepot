@@ -2,12 +2,11 @@ package io.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.LoadableComponent;
 
-abstract class AbstractPage<T extends LoadableComponent<T>> extends LoadableComponent<T> {
+public abstract class BasePage {
     protected WebDriver driver;
 
-    public AbstractPage(WebDriver driver) {
+    public BasePage(final WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }

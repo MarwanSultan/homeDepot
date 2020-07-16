@@ -1,4 +1,3 @@
-io\pages\AbstractPage.class
-io\pages\HomePage.class
 io\properties\EnvironmentProperties.class
-io\properties\Environment.class
+io\pages\HomePage.class
+io\pages\BasePage.class
