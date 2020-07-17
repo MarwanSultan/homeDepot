@@ -26,6 +26,7 @@ public class HomePage extends BasePage {
 
     public void Initialize() 
     {
+        driver.get("https://www.HomeDepot.com");
         assertThat(driver.getTitle()).isEqualTo("The Home Depot Logo");
     }
 
