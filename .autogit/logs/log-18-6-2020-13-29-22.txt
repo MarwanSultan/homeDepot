@@ -1,0 +1,83 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 18 2020 13:29:22 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* .classpath
+* pom.xml
+* src/main/java/io/pages/HomePage.java
+* target/classes/io/pages/HomePage.class
+* target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+* target/test-classes/io/testscripts/GithubTest.class
+* target/test-classes/io/testscripts/TestBase.class
+
+
+Created files:
+* .autogit/logs/log-17-6-2020-19-57-10.txt
+* .vscode/settings.json
+* initializer/.gitignore
+* initializer/.mvn/wrapper/MavenWrapperDownloader.java
+* initializer/.mvn/wrapper/maven-wrapper.jar
+* initializer/.mvn/wrapper/maven-wrapper.properties
+* initializer/mvnw
+* initializer/mvnw.cmd
+* initializer/pom.xml
+* initializer/src/main/java/com/example/initializer/DemoApplication.java
+* initializer/src/main/resources/application.properties
+* initializer/src/test/java/com/example/initializer/DemoApplicationTests.java
+* target/allure-results/221ca5c1-61ff-48dc-87f2-060cd51e8bdc-container.json
+* target/allure-results/23e06eb0-3a2c-412f-9069-f3b83a72f3cb-result.json
+* target/allure-results/4e14683e-d465-49e1-b11c-6d31769e1505-container.json
+* target/allure-results/70c6b41a-822c-48ce-ad5e-dd0965d1e3e5-container.json
+* target/allure-results/785fcd5b-cec6-49e4-89ea-a1b6abe64ffa-result.json
+* target/allure-results/8e1b0e44-10f0-4c30-9dbb-4a77fe95eeb6-container.json
+* target/allure-results/aab938f3-52bc-4c7f-97e0-ee5ed0c37fd6-result.json
+* target/allure-results/b4dcaa4c-e211-4fad-af23-d96e8ffeccc9-container.json
+* target/allure-results/b5740d80-7106-42bf-b5ba-02a49e259d26-container.json
+* target/allure-results/b7c3dbca-7f91-461a-a1eb-c899860810b2-result.json
+* target/allure-results/c45e3eed-acfe-4085-b6ef-a7342c8ee850-result.json
+* target/allure-results/dabc72c2-fb35-48ec-9e4f-7a52f4286828-container.json
+* target/allure-results/e501bf78-403b-470e-b7fc-18b104d42350-result.json
+* target/allure-results/e8ab9053-8027-40e6-83e4-bd661d39d3e1-container.json
+* target/allure-results/eb452616-2abe-4b08-b9b2-fb2cdbbde15f-container.json
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* "target/surefire-reports/Surefire suite/testng-failed.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/bullet_point.png
+* target/surefire-reports/collapseall.gif
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/failed.png
+* target/surefire-reports/index.html
+* target/surefire-reports/jquery-1.7.1.min.js
+* target/surefire-reports/junitreports/TEST-io.testscripts.GithubTest.xml
+* target/surefire-reports/navigator-bullet.png
+* "target/surefire-reports/old/Surefire suite/Surefire test.properties"
+* "target/surefire-reports/old/Surefire suite/classes.html"
+* "target/surefire-reports/old/Surefire suite/groups.html"
+* "target/surefire-reports/old/Surefire suite/index.html"
+* "target/surefire-reports/old/Surefire suite/main.html"
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods-not-run.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* "target/surefire-reports/old/Surefire suite/reporter-output.html"
+* "target/surefire-reports/old/Surefire suite/testng.xml.html"
+* "target/surefire-reports/old/Surefire suite/toc.html"
+* target/surefire-reports/old/index.html
+* target/surefire-reports/passed.png
+* target/surefire-reports/skipped.png
+* target/surefire-reports/testng-failed.xml
+* target/surefire-reports/testng-reports.css
+* target/surefire-reports/testng-reports.js
+* target/surefire-reports/testng-results.xml
+* target/surefire-reports/testng.css
+
+
+Deleted files:
+* target/surefire-reports/2020-07-16T12-34-12_264-jvmRun1.dump
+* target/surefire-reports/2020-07-16T12-34-12_264-jvmRun1.dumpstream
+
+
+Renamed files:
+* [object Object]

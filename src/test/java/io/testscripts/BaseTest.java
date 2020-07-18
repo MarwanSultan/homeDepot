@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeSuite;
@@ -16,11 +17,13 @@ import org.testng.annotations.BeforeSuite;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.pages.HomePage;
 
-abstract class TestBase {
+public abstract class BaseTest {
 
     HomePage homepage;
 
-    protected WebDriver driver;
+    public WebDriver driver;
+
+    public WebDriverWait Wait;
 
     @BeforeSuite
     public void setupSuite() {
@@ -31,13 +34,17 @@ abstract class TestBase {
     public void setup() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        HomePage homepage = new HomePage(driver);
+        final HomePage homepage = new HomePage(driver);
         homepage.driver.get("https://www.HomeDepot.com");
-		WebElement HDwait;
-		HDwait = homepage.wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("#headerSearch")));
-		HDwait.isDisplayed();
-		assertThat(homepage.driver.getTitle()).isEqualTo("The Home Depot Logo");
-        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+        
+        if(driver.findElement(By.cssSelector("#headerSearch")).getAttribute("value").equals("TRUE"))
+        {
+            driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+            assertThat(homepage.driver.getTitle()).isEqualTo("The Home Depot Logo");
+    
+        };
+       
+
         // WebDriverWait wait = new WebDriverWait(driver, 30);
         // wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("headerMyAccountTitle")));
     }

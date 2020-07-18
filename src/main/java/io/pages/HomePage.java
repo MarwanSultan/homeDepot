@@ -9,7 +9,7 @@ import io.qameta.allure.Step;
 
 public class HomePage extends BasePage {
 
-    WebDriverWait wait;
+    public WebDriverWait wait;
 
     @FindBy(id = "#headerMyAccountTitle")
     private WebElement myAccount;

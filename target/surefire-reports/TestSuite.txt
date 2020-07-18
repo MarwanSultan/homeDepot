@@ -1,8 +1,17 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 15.485 s <<< FAILURE! - in TestSuite
-setup(io.testscripts.GithubTest)  Time elapsed: 14.384 s  <<< FAILURE!
-java.lang.NullPointerException
-	at io.testscripts.GithubTest.setup(GithubTest.java:6)
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 19.721 s <<< FAILURE! - in TestSuite
+verifyHD_Page(io.testscripts.HomeDepot_Test)  Time elapsed: 2.011 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"#\#headerMyAccountTitle"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'DESKTOP-4LQORMC', ip: '192.168.0.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\marwa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 310d6815e78497e9265529bc034df284
+*** Element info: {Using=id, value=#headerMyAccountTitle}
+	at io.testscripts.HomeDepot_Test.verifyHD_Page(HomeDepot_Test.java:11)
 
