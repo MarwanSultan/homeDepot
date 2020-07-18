@@ -3,6 +3,14 @@
 <suite thread-count="4" verbose="0" name="Failed suite [Surefire suite]" parallel="classes">
   <test thread-count="4" verbose="0" name="Surefire test(failed)" parallel="classes">
     <classes>
+      <class name="io.testscripts.HD_Search_Test">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="productSearch"/>
+          <include name="setupSuite"/>
+        </methods>
+      </class> <!-- io.testscripts.HD_Search_Test -->
       <class name="io.testscripts.HomeDepot_Test">
         <methods>
           <include name="teardown"/>

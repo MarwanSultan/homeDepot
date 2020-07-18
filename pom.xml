@@ -93,7 +93,7 @@
                     <includes>
                         <include>**</include>
                     </includes>
-                    <parallel>classes</parallel>
+                    <parallel>tests</parallel>
                     <threadCount>4</threadCount>
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"

@@ -1,11 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.876 s <<< FAILURE! - in TestSuite
-verifyHD_Page(io.testscripts.HomeDepot_Test)  Time elapsed: 0.494 s  <<< FAILURE!
-java.lang.Error: 
-Unresolved compilation problem: 
-	The method validateMyAccount() is undefined for the type HomePage
-
-	at io.testscripts.HomeDepot_Test.verifyHD_Page(HomeDepot_Test.java:11)
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.215 s - in TestSuite

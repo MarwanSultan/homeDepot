@@ -11,15 +11,9 @@ public class HD_Search_Test extends BaseTest {
     @Test
     public void productSearch() {
         HomePage homePage = new HomePage(driver);
-        homePage.
-
+        homePage.executeSearch("lumber");
+        
 
     }
 
-
-
 }
-
-
-
-
