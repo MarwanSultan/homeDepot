@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jul 17 2020 19:57:10 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* debug.log
+* src/main/java/io/pages/HomePage.java
+* target/classes/io/pages/HomePage.class
+* target/surefire-reports/2020-07-16T12-34-12_264-jvmRun1.dump
+
+
+Created files:
+* .autogit/logs/log-16-6-2020-12-38-0.txt
+
+
+Deleted files:
+
+
+Renamed files:
