@@ -1,0 +1,83 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 18 2020 13:59:40 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* src/main/java/io/pages/BasePage.java
+* src/main/java/io/pages/HomePage.java
+* src/test/java/io/testscripts/BaseTest.java
+* target/classes/io/pages/BasePage.class
+* target/classes/io/pages/HomePage.class
+* target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+* target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* "target/surefire-reports/Surefire suite/testng-failed.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* "target/surefire-reports/old/Surefire suite/classes.html"
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* "target/surefire-reports/old/Surefire suite/testng.xml.html"
+* "target/surefire-reports/old/Surefire suite/toc.html"
+* target/surefire-reports/old/index.html
+* target/surefire-reports/testng-failed.xml
+* target/surefire-reports/testng-results.xml
+
+
+Created files:
+* .autogit/logs/log-18-6-2020-13-29-22.txt
+* target/allure-results/057ccb73-d3a4-4149-aa11-264c32dfee10-result.json
+* target/allure-results/09ac92aa-e6ed-4757-b6a5-fe94da7bd5b2-container.json
+* target/allure-results/23a61629-4ba9-4a17-b92f-15e8ee5cf8ce-container.json
+* target/allure-results/3491a3e1-e540-4d9a-997f-5480e36b0a04-container.json
+* target/allure-results/3a10d996-9cc3-4516-9631-f07182f44b9b-container.json
+* target/allure-results/47a835a2-08cc-4069-8b01-4f94331b766b-result.json
+* target/allure-results/5499ae37-1768-4fb1-9b30-28b4feec55f9-container.json
+* target/allure-results/5832538a-13fe-4edc-b618-4f84590a300b-container.json
+* target/allure-results/5ca45b5b-b759-4c11-832e-cbb27570d7c7-container.json
+* target/allure-results/5e8b67a5-3738-42c2-87ce-e4911705e569-container.json
+* target/allure-results/64d5edf6-1c07-40fb-a45d-c06525e7fc7f-result.json
+* target/allure-results/737bc312-670f-4696-a16f-3ebfab619b67-container.json
+* target/allure-results/73bbb51d-d1ba-4d12-ac72-63a5cdf4a7ef-container.json
+* target/allure-results/772f626f-2895-4b14-a712-4625a3fe427f-result.json
+* target/allure-results/78aa27e6-a735-4b0e-a2be-8165646fee2c-container.json
+* target/allure-results/7d65d4a3-b066-4cf5-b3af-ecf4ea75fcb9-container.json
+* target/allure-results/9e242e31-a8f1-4ac3-b6e1-bf88be99c35a-container.json
+* target/allure-results/a636a983-b845-4232-bad9-4277004cb028-result.json
+* target/allure-results/cf4109fe-7cd5-4443-8758-5e0c86b671cc-result.json
+* target/allure-results/d5f74bb3-1736-4fad-b84c-8f1a9766b8df-container.json
+* target/allure-results/d7c9e170-3e51-4108-aeb2-046bb1485ecf-result.json
+* target/allure-results/f7c34592-f12f-4748-ab62-4a317cccb2b1-result.json
+* target/allure-results/f94f0dda-ef00-43d7-a042-40c02d268127-result.json
+* target/surefire-reports/2020-07-18T13-33-08_302-jvmRun1.dump
+* target/surefire-reports/junitreports/TEST-io.testscripts.HomeDepot_Test.xml
+* target/test-classes/io/testscripts/BaseTest.class
+* target/test-classes/io/testscripts/HomeDepot_Test.class
+
+
+Deleted files:
+* target/allure-results/221ca5c1-61ff-48dc-87f2-060cd51e8bdc-container.json
+* target/allure-results/23e06eb0-3a2c-412f-9069-f3b83a72f3cb-result.json
+* target/allure-results/4e14683e-d465-49e1-b11c-6d31769e1505-container.json
+* target/allure-results/70c6b41a-822c-48ce-ad5e-dd0965d1e3e5-container.json
+* target/allure-results/785fcd5b-cec6-49e4-89ea-a1b6abe64ffa-result.json
+* target/allure-results/8e1b0e44-10f0-4c30-9dbb-4a77fe95eeb6-container.json
+* target/allure-results/aab938f3-52bc-4c7f-97e0-ee5ed0c37fd6-result.json
+* target/allure-results/b5740d80-7106-42bf-b5ba-02a49e259d26-container.json
+* target/allure-results/b7c3dbca-7f91-461a-a1eb-c899860810b2-result.json
+* target/allure-results/c45e3eed-acfe-4085-b6ef-a7342c8ee850-result.json
+* target/allure-results/dabc72c2-fb35-48ec-9e4f-7a52f4286828-container.json
+* target/allure-results/e501bf78-403b-470e-b7fc-18b104d42350-result.json
+* target/allure-results/e8ab9053-8027-40e6-83e4-bd661d39d3e1-container.json
+* target/allure-results/eb452616-2abe-4b08-b9b2-fb2cdbbde15f-container.json
+* target/surefire-reports/junitreports/TEST-io.testscripts.GithubTest.xml
+* target/test-classes/io/testscripts/GithubTest.class
+* target/test-classes/io/testscripts/TestBase.class
+
+
+Renamed files:
+* [object Object]
+* [object Object]

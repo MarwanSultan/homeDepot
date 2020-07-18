@@ -2,60 +2,30 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="15036" started-at="2020-07-18T13:58:52 EDT" finished-at="2020-07-18T13:59:07 EDT">
+  <suite name="Surefire suite" duration-ms="14697" started-at="2020-07-18T14:00:25 EDT" finished-at="2020-07-18T14:00:40 EDT">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="15036" started-at="2020-07-18T13:58:52 EDT" finished-at="2020-07-18T13:59:07 EDT">
+    <test name="Surefire test" duration-ms="14697" started-at="2020-07-18T14:00:25 EDT" finished-at="2020-07-18T14:00:40 EDT">
       <class name="io.testscripts.HomeDepot_Test">
-        <test-method status="PASS" signature="setupSuite()[pri:0, instance:io.testscripts.HomeDepot_Test@3d829787]" name="setupSuite" is-config="true" duration-ms="1173" started-at="2020-07-18T13:58:51 EDT" finished-at="2020-07-18T13:58:52 EDT">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:io.testscripts.HomeDepot_Test@79ab3a71]" name="setupSuite" is-config="true" duration-ms="1139" started-at="2020-07-18T14:00:24 EDT" finished-at="2020-07-18T14:00:25 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupSuite -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:io.testscripts.HomeDepot_Test@3d829787]" name="setup" is-config="true" duration-ms="11633" started-at="2020-07-18T13:58:52 EDT" finished-at="2020-07-18T13:59:04 EDT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:io.testscripts.HomeDepot_Test@79ab3a71]" name="setup" is-config="true" duration-ms="12377" started-at="2020-07-18T14:00:25 EDT" finished-at="2020-07-18T14:00:37 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="verifyHD_Page()[pri:0, instance:io.testscripts.HomeDepot_Test@3d829787]" name="verifyHD_Page" duration-ms="1990" started-at="2020-07-18T13:59:04 EDT" finished-at="2020-07-18T13:59:06 EDT">
-          <exception class="org.openqa.selenium.NoSuchElementException">
+        <test-method status="FAIL" signature="verifyHD_Page()[pri:0, instance:io.testscripts.HomeDepot_Test@79ab3a71]" name="verifyHD_Page" duration-ms="455" started-at="2020-07-18T14:00:37 EDT" finished-at="2020-07-18T14:00:38 EDT">
+          <exception class="java.lang.Error">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#\#headerMyAccountTitle"}
-  (Session info: chrome=83.0.4103.116)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'DESKTOP-4LQORMC', ip: '192.168.0.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\marwa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 310d6815e78497e9265529bc034df284
-*** Element info: {Using=id, value=#headerMyAccountTitle}]]>
+              <![CDATA[Unresolved compilation problem: 
+The method validateMyAccount() is undefined for the type HomePage
+]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\#headerMyAccountTitle"}
-  (Session info: chrome=83.0.4103.116)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'DESKTOP-4LQORMC', ip: '192.168.0.238', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\marwa\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 310d6815e78497e9265529bc034df284
-*** Element info: {Using=id, value=#headerMyAccountTitle}
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:375)
-at org.openqa.selenium.By$ById.findElement(By.java:188)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
-at com.sun.proxy.$Proxy8.isDisplayed(Unknown Source)
-at io.pages.HomePage.validateMyAccount(HomePage.java:33)
+              <![CDATA[java.lang.Error: Unresolved compilation problem: 
+The method validateMyAccount() is undefined for the type HomePage
+
 at io.testscripts.HomeDepot_Test.verifyHD_Page(HomeDepot_Test.java:11)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -74,11 +44,11 @@ at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:62
 at java.lang.Thread.run(Thread.java:748)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- java.lang.Error -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHD_Page -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:io.testscripts.HomeDepot_Test@3d829787]" name="teardown" is-config="true" duration-ms="909" started-at="2020-07-18T13:59:06 EDT" finished-at="2020-07-18T13:59:07 EDT">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:io.testscripts.HomeDepot_Test@79ab3a71]" name="teardown" is-config="true" duration-ms="1309" started-at="2020-07-18T14:00:38 EDT" finished-at="2020-07-18T14:00:40 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

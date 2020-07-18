@@ -8,6 +8,6 @@ public class HomeDepot_Test extends BaseTest {
 
     public void verifyHD_Page() {
         HomePage homePage = new HomePage(driver);
-        homePage.validateMyAccount();
+        homePage.landingPage();
     }
 }

@@ -11,8 +11,7 @@ public class HomePage extends BasePage {
 
     public WebDriverWait wait;
 
-    @FindBy(id = "#headerMyAccountTitle")
-    private WebElement myAccount;
+  
 
 
     @FindBy(id = "#headerSearch")
@@ -25,12 +24,16 @@ public class HomePage extends BasePage {
 
     @Step("Validate site components")
     public void landingPage() {
-
         hdSearch.isDisplayed();
     }
 
-    public void validateMyAccount(){
-        myAccount.isDisplayed();
-        
+    public void executeSearch(String var){
+        hdSearch.clear();
+        hdSearch.sendKeys(var);
+
+
+
     }
+
+ 
 }
