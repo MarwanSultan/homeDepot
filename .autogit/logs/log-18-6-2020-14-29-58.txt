@@ -1,0 +1,35 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 18 2020 14:29:58 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* src/main/java/io/pages/HomePage.java
+* src/test/java/io/testscripts/HomeDepot_Test.java
+* target/classes/io/pages/HomePage.class
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* target/surefire-reports/junitreports/TEST-io.testscripts.HomeDepot_Test.xml
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* target/surefire-reports/testng-results.xml
+* target/test-classes/io/testscripts/HomeDepot_Test.class
+
+
+Created files:
+* .autogit/logs/log-18-6-2020-13-59-40.txt
+* src/test/java/io/testscripts/HD_Search_Test
+* target/allure-results/22b37fa0-0063-4bd5-bc22-e81f1833dfc8-container.json
+* target/allure-results/387e9fa5-9f6f-418e-af70-f18288cb5709-container.json
+* target/allure-results/414c84c4-ece3-4d66-a210-0684c82c8800-container.json
+* target/allure-results/bbce63d1-9fed-4730-a3f0-07b2a927216b-result.json
+* target/test-classes/io/testscripts/HD_Search_Test
+
+
+Deleted files:
+
+
+Renamed files:
