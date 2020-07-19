@@ -1,0 +1,120 @@
+-------------------- Auto-Git Log --------------------
+		Sat Jul 18 2020 21:02:45 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* pom.xml
+* target/classes/io/pages/BasePage.class
+* target/classes/io/pages/HomePage.class
+* target/classes/io/properties/EnvironmentProperties.class
+* target/homeDepot-1.0.jar
+* target/maven-archiver/pom.properties
+* target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+* target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+* target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+* "target/surefire-reports/Surefire suite/Surefire test.html"
+* "target/surefire-reports/Surefire suite/Surefire test.xml"
+* target/surefire-reports/TEST-TestSuite.xml
+* target/surefire-reports/TestSuite.txt
+* target/surefire-reports/emailable-report.html
+* target/surefire-reports/index.html
+* target/surefire-reports/junitreports/TEST-io.testscripts.HD_Search_Test.xml
+* target/surefire-reports/junitreports/TEST-io.testscripts.HomeDepot_Test.xml
+* "target/surefire-reports/old/Surefire suite/methods-alphabetical.html"
+* "target/surefire-reports/old/Surefire suite/methods.html"
+* "target/surefire-reports/old/Surefire suite/testng.xml.html"
+* target/surefire-reports/testng-results.xml
+* target/test-classes/io/testscripts/BaseTest.class
+* target/test-classes/io/testscripts/HD_Search_Test.class
+* target/test-classes/io/testscripts/HomeDepot_Test.class
+
+
+Created files:
+* .autogit/logs/log-18-6-2020-17-48-57.txt
+* .devcontainer/devcontainer.json
+* .vscode/launch.json
+* initializer/derby.log
+* target/allure-results/0653c5c0-7366-4bfa-a77a-50fa6f3a4684-container.json
+* target/allure-results/14fc50ff-c07c-4ddc-9fcd-9807621605fc-container.json
+* target/allure-results/1fb54cf7-2435-44f4-a95e-620fa57dcc49-container.json
+* target/allure-results/267f9fe5-9cdc-4676-87e0-b0b56a528e30-container.json
+* target/allure-results/32b61dac-2217-468f-a2c9-7a61753d98d0-container.json
+* target/allure-results/4c60c261-d2d3-4f69-8fbf-64ac7c1a05ee-container.json
+* target/allure-results/4e478996-2ec8-44bd-8291-ae50b8ae7e34-container.json
+* target/allure-results/5e713351-ea21-4a7e-a1f6-6eb18b03ad6a-container.json
+
+
+Deleted files:
+* target/allure-results/03b9c415-b80f-4f01-92fe-795a674a9f69-container.json
+* target/allure-results/057ccb73-d3a4-4149-aa11-264c32dfee10-result.json
+* target/allure-results/058efdfa-802b-4f8f-bc99-fb92c680b7ee-container.json
+* target/allure-results/09ac92aa-e6ed-4757-b6a5-fe94da7bd5b2-container.json
+* target/allure-results/0d93c472-e974-472c-9f77-a2636da72180-result.json
+* target/allure-results/1229a19c-ede9-43c3-b4ab-12db46df11f8-container.json
+* target/allure-results/13579c19-605c-43de-89be-57ebceef1810-container.json
+* target/allure-results/13ecb776-ae5c-4fde-b325-07a6515269c0-container.json
+* target/allure-results/1d9e08cf-70cc-4652-9853-711aea357df5-container.json
+* target/allure-results/22b37fa0-0063-4bd5-bc22-e81f1833dfc8-container.json
+* target/allure-results/23a61629-4ba9-4a17-b92f-15e8ee5cf8ce-container.json
+* target/allure-results/2c10d719-584a-4d56-98b4-a85e33bb027c-container.json
+* target/allure-results/2cdf2e52-c9f6-49ee-8190-786abeacd6b9-result.json
+* target/allure-results/2e335df0-dcdc-4efd-9780-7cbce4b0252a-container.json
+* target/allure-results/33463bcf-51da-4d48-86e7-6bec84719d56-container.json
+* target/allure-results/3491a3e1-e540-4d9a-997f-5480e36b0a04-container.json
+* target/allure-results/387e9fa5-9f6f-418e-af70-f18288cb5709-container.json
+* target/allure-results/39f19855-e340-4d03-8181-170a4d54c60e-container.json
+* target/allure-results/3a10d996-9cc3-4516-9631-f07182f44b9b-container.json
+* target/allure-results/414c84c4-ece3-4d66-a210-0684c82c8800-container.json
+* target/allure-results/47a835a2-08cc-4069-8b01-4f94331b766b-result.json
+* target/allure-results/492335d6-205f-43f6-8d4b-53219e19c8b5-container.json
+* target/allure-results/4b1b0728-8cec-4c2d-b993-33a206f5bafa-container.json
+* target/allure-results/5357fd04-8318-4d17-8c52-73317e67b4f9-container.json
+* target/allure-results/5499ae37-1768-4fb1-9b30-28b4feec55f9-container.json
+* target/allure-results/5832538a-13fe-4edc-b618-4f84590a300b-container.json
+* target/allure-results/5ca45b5b-b759-4c11-832e-cbb27570d7c7-container.json
+* target/allure-results/5e8b67a5-3738-42c2-87ce-e4911705e569-container.json
+* target/allure-results/64d5edf6-1c07-40fb-a45d-c06525e7fc7f-result.json
+* target/allure-results/6c670a99-3423-4c4f-92d1-461c751e5216-container.json
+* target/allure-results/737bc312-670f-4696-a16f-3ebfab619b67-container.json
+* target/allure-results/73bbb51d-d1ba-4d12-ac72-63a5cdf4a7ef-container.json
+* target/allure-results/772f626f-2895-4b14-a712-4625a3fe427f-result.json
+* target/allure-results/78aa27e6-a735-4b0e-a2be-8165646fee2c-container.json
+* target/allure-results/7b4e9f64-b2e2-43d2-9bca-747542528800-container.json
+* target/allure-results/7c7facb2-d1e5-4de7-a563-9b4b34d2a943-result.json
+* target/allure-results/7d65d4a3-b066-4cf5-b3af-ecf4ea75fcb9-container.json
+* target/allure-results/89604635-cbb0-45bc-9d92-f79194a210fd-container.json
+* target/allure-results/9014b7ee-0520-43fe-891c-184a3ea98df8-container.json
+* target/allure-results/942e34a9-458a-466c-8326-fb0c5501d3c7-container.json
+* target/allure-results/9584cb76-b7c3-44e1-9e9e-52f706116d4b-container.json
+* target/allure-results/9796bea1-b19c-4a55-b0f9-b05f6f946df3-container.json
+* target/allure-results/9e242e31-a8f1-4ac3-b6e1-bf88be99c35a-container.json
+* target/allure-results/a55aedea-cea2-4f6b-81cd-7544e71dd7ac-container.json
+* target/allure-results/a636a983-b845-4232-bad9-4277004cb028-result.json
+* target/allure-results/b2476000-aa9f-4d0b-ac38-42de20239cef-result.json
+* target/allure-results/b7ee944a-3ad5-46f8-8b08-c1bd5af3b632-result.json
+* target/allure-results/baaef1af-126c-44ef-b4c5-a626818b8a24-container.json
+* target/allure-results/bbce63d1-9fed-4730-a3f0-07b2a927216b-result.json
+* target/allure-results/bc610d02-c6e2-4fc4-ad4c-558bceecdf00-result.json
+* target/allure-results/cd86fc17-193e-4523-a41b-2feb081887ea-container.json
+* target/allure-results/ce80067d-0071-4fcb-8015-5feb6a16a6a7-container.json
+* target/allure-results/cf4109fe-7cd5-4443-8758-5e0c86b671cc-result.json
+* target/allure-results/d1db9528-3378-4a94-8910-cdeca8fba08c-container.json
+* target/allure-results/d5f74bb3-1736-4fad-b84c-8f1a9766b8df-container.json
+* target/allure-results/d7c9e170-3e51-4108-aeb2-046bb1485ecf-result.json
+* target/allure-results/dc9ed3c6-ac2c-4ff5-86c1-bbbfaf5acf74-result.json
+* target/allure-results/df7c16e8-d9f4-4b90-9af7-141d44b4194b-result.json
+* target/allure-results/e3d36481-36f6-493e-8ba8-16176418cb22-container.json
+* target/allure-results/f7c34592-f12f-4748-ab62-4a317cccb2b1-result.json
+* target/allure-results/f94f0dda-ef00-43d7-a042-40c02d268127-result.json
+* target/allure-results/fc838010-f698-419f-a583-aefa931fc5eb-result.json
+* target/allure-results/ff53c2f3-f890-42bd-9a41-f462c2fc516a-container.json
+* target/surefire-reports/2020-07-18T13-33-08_302-jvmRun1.dump
+* "target/surefire-reports/Surefire suite/testng-failed.xml"
+* target/surefire-reports/testng-failed.xml
+
+
+Renamed files:
+* [object Object]
+* [object Object]
+* [object Object]
+* [object Object]
