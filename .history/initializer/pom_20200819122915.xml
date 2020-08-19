@@ -19,13 +19,6 @@
 	</properties>
 
 	<dependencies>
-
-		<dependency>
-			<groupId>com.github.axway-api-management-plus.apim-cli</groupId>
-			<artifactId>parent</artifactId>
-			<version>1.2.1</version>
-		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
